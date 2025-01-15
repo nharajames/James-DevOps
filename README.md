@@ -28,8 +28,7 @@ I thrive in dynamic environments and am committed to continuous professional dev
 
 ---
 
-## 💡 Skills
-- AWS Cloud Migration and Infrastructure Management  
+## 💡 Skills  
 - Building CI/CD Pipelines  
 - Building APIs with Python and Node.js
 - Building Cloudformation Templates
