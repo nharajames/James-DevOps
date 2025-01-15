@@ -30,14 +30,15 @@ I thrive in dynamic environments and am committed to continuous professional dev
 
 ## 💡 Skills
 - AWS Cloud Migration and Infrastructure Management  
-- CI/CD Integration using GitHub Actions and Jenkins  
-- Building APIs with Python and Node.js  
-- Docker and Kubernetes Deployment  
+- Building CI/CD Pipelines  
+- Building APIs with Python and Node.js
+- Building Cloudformation Templates
+- Docker and Kubernetes (Containerisation)  
 - IoT Technical Architecture and Standards Compliance  
-- Monitoring using AWS CloudWatch and Prometheus  
+- Monitoring servers using AWS CloudWatch, Splunk Dashboard, Prometheus and Grafana 
 - AWS Lambda Development  
-- Microsoft Dynamics 365 CRM  
-- Postman API Testing  
+- Managing Cloud Migration and Deployments to AWS, Azure and GCP.   
+- Software Testing  
 
 ---
 
@@ -49,11 +50,11 @@ I thrive in dynamic environments and am committed to continuous professional dev
 
 ### AWS Infrastructure Management
 - **ACE App Deployment**: Architected and deployed a robust backend on AWS EC2, integrating user authentication via AWS Cognito with federated Active Directory.  
-- **AD FS and SAML Integration**: Configured and managed AWS Managed AD and AD FS for secure, scalable identity federation.  
+- **AD FS and SAML Integration**: Configured AWS Managed AD for secure and scalable identity federation.  
 
 ### Data Analytics & Pipelines
 - **Vertica Integration with Power BI**: Built efficient data pipelines using Kafka topics to feed Vertica database clusters, connected via ODBC to Power BI for analytics visualization.  
-- **Python Data Pipeline Automation**: Automated data ingestion and transformation with Python scripts scheduled using CRON jobs.  
+- **Python Data Pipeline Automation**: Automated data ingestion and transformation with Python scripts scheduled using Jenkins Pipeline.  
 
 ### Cloud Migration
 - **Electronic Performance Management System**: Migrated complex on-premise systems to AWS, utilizing serverless architectures.  
